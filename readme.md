@@ -2,7 +2,7 @@
 ![Rainbow Lines](/img/p01.png)
 
 This sketch displays an animated pattern of racing lines
-
+<br><br>
 
 
 
@@ -10,7 +10,7 @@ This sketch displays an animated pattern of racing lines
 ![Cube Disco](/img/p02.png)
 
 This sketch displays an animated glowing cube of dots
-
+<br><br>
 
 
 
@@ -20,7 +20,7 @@ This sketch displays an animated glowing cube of dots
 
 Creates a color palette of each frame of a selected video.
 /Mouse position controls the amount of colors the palette consists of./
-
+<br><br>
 
 
 
@@ -29,7 +29,7 @@ Creates a color palette of each frame of a selected video.
 ![Supershapes 3D](/img/p04.png)
 
 Visualization of three dimensional super shapes
-
+<br><br>
 
 
 
@@ -51,7 +51,7 @@ The color represents the time of the crash (from BC to today – from blue to ye
 
 3D visualization of global population density.
 /Use mouse to rotate view./
-
+<br><br>
 
 
 
