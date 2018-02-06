@@ -57,7 +57,7 @@ The color represents the time of the crash (from BC to today – from blue to ye
 
 
 # Gesture Music Controller
-![Gesture Music Controller](/img/p07.png)
+![Gesture Music Controller](/img/p07.jpg)
 
 Using this sketch you can play, pause, speed up and slow down your music through simple hand gestures. The sketch uses the features of the MYO wristband to make that possible. Once the sketch is running and the MYO wristband connected, the music is controlled with the following gestures:
 /SPREAD FINGERS -> Play music/
